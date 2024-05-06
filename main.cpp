@@ -10,6 +10,10 @@ void quickSort(){
     //
 }
 
+void insertionSort(){
+    //
+}
+
 int main(){
     cout <<"Hello World" ;
     cout << "Hello .Dot Batch";
